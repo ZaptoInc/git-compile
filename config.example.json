@@ -1,0 +1,9 @@
+{
+    "Author": "Author",
+    "Repo": "Repo",
+    "Branch": "Branch",
+    "GithubToken": "GithubToken",
+    "LatestCommit": "0",
+    "Folder": "./your-project",
+    "Script": "echo test"
+}

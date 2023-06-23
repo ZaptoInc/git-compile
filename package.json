@@ -1,0 +1,24 @@
+{
+  "name": "git-compile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaptoInc/git-compile.git"
+  },
+  "author": "ZaptoInc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaptoInc/git-compile/issues"
+  },
+  "homepage": "https://github.com/ZaptoInc/git-compile#readme",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "node-fetch": "^3.3.1"
+  }
+}
